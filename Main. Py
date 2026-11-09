@@ -1,1 +1,9 @@
 
+print("Welcome to MeshWeaver-py!")
+
+def main():
+    print("MeshWeaver-py project started.")
+    print("P2P Async Task Broker")
+
+if __name__ == "__main__":
+    main()
