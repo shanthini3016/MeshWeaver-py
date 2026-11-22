@@ -1,0 +1,7 @@
+text
+# Core dependencies for MeshWeaver: Zero-Dependency P2P Async Task Broker
+cloud pickle>=3.0.0
+psu til>=5.9.0
+rich>=13.7.0
+cryptography>=42.0.0
+Use code with caution.
